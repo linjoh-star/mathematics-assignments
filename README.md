@@ -1,2 +1,2 @@
 # mathematics-assignments
-My university assigments 
+My university math assigments.
